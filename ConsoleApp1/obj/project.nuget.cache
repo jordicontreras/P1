@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWzKyX/iKBMSHMzrkF6ORWQ9FH6Vmyt/dTn49ESZ1o66Q10uZN8+d43/4g0c4tzcVHLD5+ep2e2/q+57gT5xdg==",
+  "success": true,
+  "projectFilePath": "C:\\IT_Academy\\IT_Academy\\NotasExamenes\\trainingexample1_averagemarks\\1_ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
