@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IT_Academy\\IT_Academy\\NotasExamenes\\trainingexample1_averagemarks\\1_ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\IT_Academy\\IT_Academy\\P1\\P1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\IT_Academy\\IT_Academy\\NotasExamenes\\trainingexample1_averagemarks\\1_ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\IT_Academy\\IT_Academy\\P1\\P1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IT_Academy\\IT_Academy\\NotasExamenes\\trainingexample1_averagemarks\\1_ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\IT_Academy\\IT_Academy\\P1\\P1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\IT_Academy\\IT_Academy\\NotasExamenes\\trainingexample1_averagemarks\\1_ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\IT_Academy\\IT_Academy\\P1\\P1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\IT_Academy\\IT_Academy\\NotasExamenes\\trainingexample1_averagemarks\\1_ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\IT_Academy\\IT_Academy\\P1\\P1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

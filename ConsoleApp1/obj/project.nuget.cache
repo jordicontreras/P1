@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWzKyX/iKBMSHMzrkF6ORWQ9FH6Vmyt/dTn49ESZ1o66Q10uZN8+d43/4g0c4tzcVHLD5+ep2e2/q+57gT5xdg==",
+  "dgSpecHash": "ZZI+RCYr5dFdDb/cONg9jnQTEu6Bl8on2bqjnNOxzwRowvF5P4VihilYDzEs3E3A72e0DanYmDcneRS8RBh/hw==",
   "success": true,
-  "projectFilePath": "C:\\IT_Academy\\IT_Academy\\NotasExamenes\\trainingexample1_averagemarks\\1_ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\IT_Academy\\IT_Academy\\P1\\P1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jordi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\jordi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

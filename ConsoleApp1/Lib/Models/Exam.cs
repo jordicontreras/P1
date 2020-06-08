@@ -13,5 +13,11 @@ namespace ConsoleApp1.Lib.Models
         public double Mark { get; set; }
 
         public DateTime Timestamp { get; set; }
+
+        public string printFields()
+        {
+            return "Student: " + this.Student.Name + ";" + this.Student.Dni + " | Subject: " + this.Subject.Name + ";Teacher: " + 
+                this.Subject.Teacher + " | Mark: " + this.Mark + " | Date: " + this.Timestamp;
+        }
     }
 }
